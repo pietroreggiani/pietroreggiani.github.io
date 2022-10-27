@@ -1,5 +1,10 @@
 # My website
 
+Most of the credit for the layout goes to the great [Grant McDermott](https://grantmcdermott.com), I have forked and adapted his website.
+He has loads of useful material on economics, data science, coding and software development on his website, you should check it out.
+
+The below is from his website, I keep it here just in case.
+
 Built using the [remote theme template](https://github.com/mmistakes/mm-github-pages-starter) for the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
 I've made the following custom adjustments:
