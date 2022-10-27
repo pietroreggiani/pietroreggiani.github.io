@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pietro Reggiani
-url: pietroreggiani.github.io
+url: https://pietroreggiani.com
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
 
 repository: pietroreggiani/pietroreggiani.github.io
 github: [metadata]
-email: grantmcd@uoregon.edu
+email: preggian@stern.nyu.edu
 description: >- # this means to ignore newlines in the text below
   Pietro Reggiani's personal website.
 twitter_username: pres_release
@@ -63,39 +63,36 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Grant McDermott"
+  name   : "Pietro Reggiani"
   avatar : "/assets/images/mcdermott400sq-s.jpg"
   bio    : 
-    Assistant Prof. at the University of Oregon. 
-    Interested in environmental economics & data science.
+    PhD Candidate at New York University Stern School of Business
+    Interested in Climate Finance, Macroeconomics and Behavioral Finance
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://grantmcdermott.com"
+      url: "https://pietroreggiani.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:grantmcd@uoregon.edu"
+      url: "mailto:preggian@stern.nyu.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "https://twitter.com/pres_release"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
-    - label: "Scholar"
-      icon: "ai ai-google-scholar"
-      url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
-    - label: "ORCID"
-      icon: "ai ai-orcid"
-      url: "http://orcid.org/0000-0001-7883-8573"
-      
+      url: "https://github.com/pietroreggiani"
+    #- label: "Scholar"
+    #  icon: "ai ai-google-scholar"
+    #  url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
+    
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "https://twitter.com/pres_release"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
+      url: "https://github.com/pietroreggiani"
 
 defaults:
   # _posts
