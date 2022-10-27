@@ -19,8 +19,8 @@ Summer 2021. ([Syllabus]({{ site.url }}/assets/docs/teaching/syllabus_foundation
 
 *Microeconomics with Calculus*, ECON-UB_2_1.
 
-Fall 2020, Spring 2021, Fall 2021, Spring 2022. Professors: Pricila Maziero, Walker Hanlon, Gianluca Clementi, Giulia Brancaccio
+Fall 2020, Spring 2021, Fall 2021, Spring 2022. Professors: Pricila Maziero, Walker Hanlon, Gianluca Clementi, Giulia Brancaccio.
 
 *Principles of Finance*.
 
-Spring 2020. Professor Philipp Schnabl
+Spring 2020. Professor Philipp Schnabl.
