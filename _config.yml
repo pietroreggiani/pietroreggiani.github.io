@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Grant R. McDermott
-url: https://grantmcdermott.com
+title: Pietro Reggiani
+url: pietroreggiani.github.io
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
 
-# repository: grantmcdermott/grantmcdermott.github.io
+repository: pietroreggiani/pietroreggiani.github.io
 github: [metadata]
 email: grantmcd@uoregon.edu
 description: >- # this means to ignore newlines in the text below
-  Grant McDermott's personal website.
-twitter_username: grant_mcdermott
-github_username: grantmcdermott
+  Pietro Reggiani's personal website.
+twitter_username: pres_release
+github_username: pietroreggiani
 minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
