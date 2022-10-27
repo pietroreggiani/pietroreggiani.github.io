@@ -5,16 +5,22 @@ header:
   image: /assets/images/haceta-crop2.jpg
 ---
 
-Unless otherwise noted, all courses are currently being taught at the University of Oregon's Department of Economics.
+During my Ph.D. , I have had the pleasure to teach the students of New York University's Stern School of Business over several semesters. 
 
-### Graduate
+### Instructor
 
-*Data Science for Economists*, EC 607. ([Syllabus](https://github.com/uo-ec607/syllabus/blob/master/syllabus.pdf). [Lectures](https://github.com/uo-ec607/lectures).)
+*Foundations of Finance*, FINC-UB 2.
 
-*Big Data in Economics*, EC 510. ([Syllabus](https://github.com/uo-ec510-2020-spring/syllabus/blob/master/syllabus.pdf). [Lectures](https://github.com/uo-ec510-2020-spring/lectures).)
+Summer 2021. ([Syllabus]({{ site.url }}/assets/docs/teaching/syllabus_foundations_summer2021_may25.pdf).)
 
-### Undergraduate
 
-*Environmental Economics*, EC 434. ([Syllabus]({{ site.url }}/assets/docs/teaching/ec434-syllabus.pdf).)
+### Teaching Assistant
 
-*Intermediate Microeconomic Theory*, EC 311. ([Syllabus]({{ site.url }}/assets/docs/teaching/ec311-syllabus.pdf).)
+
+*Microeconomics with Calculus*, ECON-UB_2_1.
+
+Fall 2020, Spring 2021, Fall 2021, Spring 2022. Professors: Pricila Maziero, Walker Hanlon, Gianluca Clementi, Giulia Brancaccio
+
+*Principles of Finance*.
+
+Spring 2020. Professor Philipp Schnabl
