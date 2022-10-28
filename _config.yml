@@ -65,9 +65,7 @@ plugins:
 author:
   name   : "Pietro Reggiani"
   avatar : "/assets/images/head_pietro_square.jpg"
-  bio    : 
-    PhD Candidate at New York University Stern School of Business
-    Interested in Climate Finance, Macroeconomics and Behavioral Finance
+  bio    : PhD Candidate at New York University Stern School of Business
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -75,24 +73,30 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:preggian@stern.nyu.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/pres_release"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/p-reggiani/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pietroreggiani"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pres_release"
     #- label: "Scholar"
     #  icon: "ai ai-google-scholar"
     #  url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
     
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/pres_release"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/p-reggiani/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pietroreggiani"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pres_release"
 
 defaults:
   # _posts

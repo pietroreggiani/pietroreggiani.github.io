@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 header:
-  image: /assets/images/moro-crop2.jpg
+  image: /assets/images/yellowstone3.jpg
 ---
 
 ## Ph.D. Job Market Paper

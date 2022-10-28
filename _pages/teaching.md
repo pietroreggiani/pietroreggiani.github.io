@@ -2,7 +2,7 @@
 title: Teaching
 permalink: /teaching/
 header:
-  image: /assets/images/haceta-crop2.jpg
+  image: /assets/images/yellowstone3.jpg
 ---
 
 During my Ph.D. , I have had the pleasure to teach the students of New York University's Stern School of Business over several semesters. 
