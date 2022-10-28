@@ -1,14 +1,14 @@
 main:
   - title: "Home"
     url: /
-  - title: "Bio"
-    url: /bio/
   - title: "Research"
     url: /research/
   - title: "Teaching"
     url: /teaching/
   - title: "Vitae"
     url: /vitae/
+#  - title: "Bio"
+#    url: /bio/
 #  - title: "Software"
 #    url: /software/
 #  - title: "Blog"

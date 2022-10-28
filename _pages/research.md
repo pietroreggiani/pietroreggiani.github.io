@@ -7,7 +7,8 @@ header:
 
 ## Ph.D. Job Market Paper
 
-**"Climate Change Expectations: Evidence from Earnings Forecasts"**
+### "Climate Change Expectations: Evidence from Earnings Forecasts"
+Draft available soon.
 
 *I study the effects of changes in climate change expectations on forecasts of cash flows of public firms.
     I use data on financial analysts' forecasts of firm earnings, and local temperatures as shifters of their 
@@ -28,10 +29,31 @@ header:
 <br>
 
 ([Paper]({{ site.url }}/papers/hydro.pdf){:target="_blank"}.)
-
-
 -->
 
 
-## Other
+## Selected Work in Progress
+
+### "Persistence-based Portfolio Choice Along the FOMC Cycle"
+with Fulvio Ortu and Federico Severino
+
+*The Federal Reserve holds two main sets of monetary policy meetings, the “Federal
+Open Market Committee” (FOMC) and the “Board Meetings”, which gather with six-
+week and two-week cadence respectively. Cieslak, Morse, and Vissing-Jorgensen (2019)
+show that the cadence of these meetings is associated with cycles of corresponding
+frequencies in stock markets. These can be fruitfully exploited through a portfolio
+strategy that invests in the whole market at alternate weeks (the even-week strategy).
+This simple investment rule is based on the cycles identified empirically but, so far,
+lacks a theoretical foundation. In this paper, we provide a rigorous framework to detect
+cycles in the stock market, and to determine optimal portfolio choices which profit from
+such cycles. We use the filtering approach for stationary time series of Ortu, Severino,
+Tamoni, and Tebaldi (2020) to isolate uncorrelated components of stock returns that are
+precisely associated with two- and six-week cycles. Then, we replicate these components
+using tradable assets from the U.S. market, and design an optimal portfolio strategy
+that maximizes the investor’s wealth and outperforms the even-week strategy.*
+
+
+### "Retail Traders Through the Covid Pandemic: Evidence from Robinhood"
+
+*I analyze the investment decisions of a peculiar sample of retail investors around the Covid-19 pandemic, employing a novel data-set from a popular brokerage platform. After dividing the sample period into three periods -- pre-pandemic, crash and recovery -- I investigate which firm characteristics predict the popularity of stocks among retail traders. I find that these characteristics change across the three periods: since the onset of the pandemic, traders became attracted to stocks and sectors that performed the worst in the crisis. This behavior is distant from a flight to quality dynamic and rather consistent with a contrarian strategy. The findings have implications for financial stability as a larger fraction of the population gains access to financial markets through technology.*
 

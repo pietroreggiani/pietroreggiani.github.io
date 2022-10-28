@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines in the text below
 twitter_username: pres_release
 github_username: pietroreggiani
 minimal_mistakes_skin: "dark" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-search: true
+#search: true no need for search function for now.
 
 # Build settings
 markdown: kramdown
@@ -58,9 +58,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+#- jekyll-feed
 
 author:
   name   : "Pietro Reggiani"
@@ -151,4 +152,4 @@ exclude: ['*.Rmd']
 
 
 # Logo
-logo: "/assets/images/reggiani_marchio_cropped_v3.png"
+logo: "/assets/images/reggiani_marchio_cropped_filled_square.png"

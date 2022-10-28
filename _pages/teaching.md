@@ -5,11 +5,11 @@ header:
   image: /assets/images/yellowstone3.jpg
 ---
 
-During my Ph.D. , I have had the pleasure to teach the students of New York University's Stern School of Business over several semesters. 
+During my time at NYU Stern, I have had the pleasure to teach several cohorts of business school students. 
 
 ### Instructor
 
-*Foundations of Finance*, FINC-UB 2.
+*Foundations of Finance*, Undergraduate FINC-UB 2.
 
 Summer 2021. ([Syllabus]({{ site.url }}/assets/docs/teaching/syllabus_foundations_summer2021_may25.pdf).)
 
@@ -17,10 +17,10 @@ Summer 2021. ([Syllabus]({{ site.url }}/assets/docs/teaching/syllabus_foundation
 ### Teaching Assistant
 
 
-*Microeconomics with Calculus*, ECON-UB_2_1.
+*Microeconomics with Calculus*, Undergraduate ECON-UB_2_1.
 
 Fall 2020, Spring 2021, Fall 2021, Spring 2022. Professors: Pricila Maziero, Walker Hanlon, Gianluca Clementi, Giulia Brancaccio.
 
-*Principles of Finance*.
+*Principles of Finance*, Executive MBA.
 
 Spring 2020. Professor Philipp Schnabl.
