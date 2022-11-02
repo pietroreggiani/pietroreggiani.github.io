@@ -11,7 +11,7 @@ During my time at NYU Stern, I have had the pleasure to teach several cohorts of
 
 *Foundations of Finance*, Undergraduate FINC-UB 2.
 
-Summer 2021 ([Syllabus]({{site.url}}/assets/docs/teaching/syllabus_foundations_summer2021_may25.pdf) | [Evaluations]({{site.url}}/assets/docs/teaching/evaluations_fof_summary_2021.pdf)).
+Summer 2021 ([Syllabus]({{site.url}}/assets/docs/teaching/syllabus_foundations_summer2021_may25.pdf); [Evaluations]({{site.url}}/assets/docs/teaching/evaluations_fof_summary_2021.pdf)).
 
 
 ### Teaching Assistant
