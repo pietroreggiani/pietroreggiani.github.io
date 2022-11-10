@@ -8,7 +8,7 @@ header:
 ## Ph.D. Job Market Paper
 
 ### "Climate Change Expectations: Evidence from Earnings Forecasts"
-Draft available soon.
+[Click here]({{site.url}}/assets/docs/research/reggiani_draft_jmp.pdf) for draft.
 
 *I study the effects of changes in climate change expectations on forecasts of cash flows of public firms.
     I use data on financial analysts' forecasts of firm earnings, and local temperatures as shifters of their 
